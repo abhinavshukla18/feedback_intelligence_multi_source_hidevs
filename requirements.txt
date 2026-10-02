@@ -1,0 +1,12 @@
+google-play-scraper
+requests
+pandas
+langchain-text-splitters
+sentence-transformers
+chromadb
+groq
+python-dotenv
+transformers
+streamlit
+reportlab
+matplotlib
