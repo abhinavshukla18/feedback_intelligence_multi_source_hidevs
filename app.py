@@ -13,6 +13,12 @@ CHUNKS_FILE = "data/chunk_sentiment.csv"
 
 st.set_page_config(page_title="Feedback Intelligence", page_icon="📊", layout="wide")
 
+try:
+    if "GROQ_API_KEY" in st.secrets:
+        os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
+except Exception:
+    pass  # running locally without a secrets file: the .env file is used
+
 
 @st.cache_data
 def load_data():
