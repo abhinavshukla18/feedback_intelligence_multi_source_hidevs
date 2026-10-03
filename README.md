@@ -169,8 +169,8 @@ feedback-intelligence/
 ### 2. Get the code
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/feedback-intelligence.git
-cd feedback-intelligence
+git clone https://github.com/abhinavshukla18/feedback_intelligence_multi_source_hidevs.git
+cd feedback_intelligence_multi_source_hidevs
 ```
 
 ### 3. Create and activate a virtual environment
