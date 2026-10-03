@@ -5,7 +5,8 @@ A Python system that collects app reviews from several sources, measures custome
 The example app analysed throughout this project is **Spotify**, but the system works for any app with a Google Play and App Store listing.
 
 **Author:** *Abhinav Shukla*
-**Live demo:** _add your Streamlit link here after deployment_
+**Live demo:**[Open the dashboard](https://spotify-feedback-intelligence.streamlit.app/
+)
 
 ---
 
