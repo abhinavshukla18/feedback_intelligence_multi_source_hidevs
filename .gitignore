@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 reports/charts/
 .streamlit/secrets.toml
+.pytest_cache/
